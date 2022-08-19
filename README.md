@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://dev.to/@japhethjoepari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@japhethjoepari" height="30" width="40" /></a>
 <a href="https://twitter.com/@joepari_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joepari_codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/japheth joepari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japheth joepari" height="30" width="40" /></a>
-<a href="https://fb.com/japheth joepari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="japheth joepari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/japheth-joepari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japheth joepari" height="30" width="40" /></a>
+<a href="https://facebook.com/japhethjoepari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="japheth joepari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
