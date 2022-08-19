@@ -1,4 +1,3 @@
-[![MasterHead]
 <h1 align="center">Hi 👋, I'm Japheth Joepari</h1>
 <h3 align="center">A passionate fullstack software developer</h3>
 
