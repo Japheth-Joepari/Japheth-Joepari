@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Japheth Joepari</h1>
-<h3 align="center">A passionate frontend developer from Lagos Nigeria</h3>
+<h3 align="center">A passionate fullstack software developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japheth-joepari" alt="japheth-joepari" /></a> </p>
@@ -9,11 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/@joepari_codes" target="blank"><img src="https://img.shields.io/twitter/follow/@joepari_codes?logo=twitter&style=for-the-badge" alt="@joepari_codes" /></a> </p>
 
-- 🔭 I’m currently working on **worksquare**
-
 - 🌱 I’m currently learning **Flutter, flask**
 
-- 💬 Ask me about **react, react native, python, django**
+- 💬 Ask me about **React, React Native, Python, Django, Node Express**
 
 - 📫 How to reach me **phython023@gmail.com**
 
