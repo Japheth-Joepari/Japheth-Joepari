@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Japheth Joepari</h1>
 <h3 align="center">A passionate frontend developer from Lagos Nigeria</h3>
 
@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **worksquare**
 
-- 🌱 I’m currently learning **React Native, Angular**
+- 🌱 I’m currently learning **Flutter, flask**
 
-- 💬 Ask me about **react, react native, vue**
+- 💬 Ask me about **react, react native, python, django**
 
 - 📫 How to reach me **phython023@gmail.com**
 
