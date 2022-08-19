@@ -1,5 +1,5 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<img align="right" alt="Coding" width="700" src="https://res.cloudinary.com/jerrick/image/upload/v1652100443/62790d5bf1bb6000201ec695.png">
 
 <h1 align="center">Hi 👋, I'm Japheth Joepari</h1>
 <h3 align="center">A passionate fullstack software developer</h3>
