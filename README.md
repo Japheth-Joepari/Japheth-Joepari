@@ -5,8 +5,8 @@
 <h3 align="center">A passionate fullstack software developer</h3>
 
 
-<h3>🏆 Github Profile Trophy</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japheth-joepari" alt="japheth-joepari" /></a> </p>
+<h3 align="center">🏆 Github Profile Trophy</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japheth-joepari" alt="japheth-joepari" /></a> </p>
 
 <img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
