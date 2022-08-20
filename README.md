@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png)
+[![MasterHead](https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png)](https://www.linkedin.com/in/japheth-joepari/)
 
 
 <h1 align="center">Hi 👋, I'm Japheth Joepari. </h1>
