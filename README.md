@@ -1,8 +1,8 @@
 ![MasterHead](https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png)
 
 
-<h1 align="center">Hi 👋, I'm Japheth Joepari </h1>
-<h3 align="center">A passionate fullstack software developer</h3>
+<h1 align="center">Hi 👋, I'm Japheth Joepari. </h1>
+<h3 align="center">A passionate fullstack software developer.</h3>
 
 
 <h3 align="center">🏆 Github Profile Trophy</h3>
