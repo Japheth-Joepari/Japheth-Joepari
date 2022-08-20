@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Japheth Joepari</h1>
