@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/@joepari_codes" target="blank"><img src="https://img.shields.io/twitter/follow/@joepari_codes?logo=twitter&style=for-the-badge" alt="@joepari_codes" /></a> </p>
 
+- 🔭 I’m currently exploring **IOT**
+
 - 🌱 I’m currently learning **Flutter, flask**
 
 - 💬 Ask me about **React, React Native, Python, Django, Node Express**
