@@ -6,7 +6,7 @@
 
 
 <h3>🏆 Github Profile Trophy</h3>
-<p align="center">
+<p align="left">
 <a href="https://github.com/Japheth-Joepari">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Japheth-Joepari&column=8&theme=gruvbox&no-frame=true"/>
 </a>
