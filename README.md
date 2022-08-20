@@ -5,7 +5,12 @@
 <h3 align="center">A passionate fullstack software developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japheth-joepari" alt="japheth-joepari" /></a> </p>
+<h3>🏆 Github Profile Trophy</h3>
+<p align="center">
+<a href="https://github.com/Japheth-Joepari">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Japheth-Joepari&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+  </p>
 
 <img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -40,12 +45,7 @@
 <img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
 -->
 
-<h3>🏆 Github Profile Trophy</h3>
-<p align="center">
-<a href="https://github.com/Japheth-Joepari">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Japheth-Joepari&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-  </p>
+
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Japheth-Joepari&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
