@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png)](https://www.linkedin.com/in/japheth-joepari/)
+[![MasterHead ](https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png)](https://www.linkedin.com/in/japheth-joepari/)
 
 
 <h1 align="center">Hi 👋, I'm Japheth Joepari. </h1>
