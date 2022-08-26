@@ -1,7 +1,7 @@
 [![MasterHead ](https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png)](https://www.linkedin.com/in/japheth-joepari/)
 
 
-<h1 align="center">Hi 👋, I'm Japheth Joepari. </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Japheth Joepari. </h1>
 <h3 align="center">A passionate fullstack software developer.</h3>
 
 
