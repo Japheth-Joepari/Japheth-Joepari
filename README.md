@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **phython023@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via:</h3>
 <p align="left">
 <a href="https://dev.to/@japhethjoepari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@japhethjoepari" height="30" width="40" /></a>
 <a href="https://twitter.com/@joepari_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joepari_codes" height="30" width="40" /></a>
