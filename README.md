@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Flutter, flask**
 
-- 💬 Ask me about **React, React Native, Python, Django, Node Express**
+- 💬 Ask me about **React, React Native, Python, Django, Node Express, Laravel**
 
 - 📫 How to reach me **phython023@gmail.com**
 
