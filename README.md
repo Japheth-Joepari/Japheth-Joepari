@@ -1,4 +1,4 @@
-[![MasterHead ](https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png)](https://www.linkedin.com/in/japheth-joepari/)
+[![MasterHead ](https://www.kixie.com/assets/img/uploads/features/feeling-proud.svg)](https://www.linkedin.com/in/japheth-joepari/)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Japheth Joepari. </h1>
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Flutter, flask**
 
-- 💬 Ask me about **React, React Native, Python, Django, Node Express, Laravel**
+- 💬 Ask me about **React, React Native, PHP, Laravel, NextJs, Typscript**
 
 - 📫 How to reach me **phython023@gmail.com**
 
