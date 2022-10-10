@@ -1,4 +1,5 @@
-[![MasterHead ](https://www.kixie.com/assets/img/uploads/features/feeling-proud.svg)](https://www.linkedin.com/in/japheth-joepari/)
+
+<h1 align="center" width="500" height="300 ><img src="https://www.kixie.com/assets/img/uploads/features/feeling-proud.svg" width="30px" height="30px"></h1>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Japheth Joepari. </h1>
