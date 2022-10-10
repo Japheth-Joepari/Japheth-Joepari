@@ -41,7 +41,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=japheth-joepari&show_icons=true&locale=en" alt="japheth-joepari" /></p>
 
