@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/@joepari_codes" target="blank"><img src="https://img.shields.io/twitter/follow/@joepari_codes?logo=twitter&style=for-the-badge" alt="@joepari_codes" /></a> </p>
 
-- 🔭 I’m currently exploring **⚡IOT**
+- 🔭 I’m currently exploring **IOT**
 
-- 🌱 I’m currently learning **⚡Flutter ⚡NodeJs**
+- 🌱 I’m currently learning **Flutter ⚡NodeJs**
 
 - 💬 Ask me about **React ⚡React Native ⚡PHP ⚡Laravel ⚡NextJs ⚡Typscript**
 
