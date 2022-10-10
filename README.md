@@ -9,7 +9,7 @@
 <h3 align="center">🏆 Github Profile Trophy</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japheth-joepari" alt="japheth-joepari" /></a> </p>
 
-<img align="right" alt="Coding" width="800" height="500" src="https://www.kixie.com/assets/img/uploads/features/feeling-proud.svg">
+<img align="right" alt="Coding" width="600" height="300" src="https://www.kixie.com/assets/img/uploads/features/feeling-proud.svg">
 
 <p align="left"> <a href="https://twitter.com/@joepari_codes" target="blank"><img src="https://img.shields.io/twitter/follow/@joepari_codes?logo=twitter&style=for-the-badge" alt="@joepari_codes" /></a> </p>
 
