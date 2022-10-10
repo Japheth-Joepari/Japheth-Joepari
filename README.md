@@ -1,7 +1,4 @@
 
-<h1 align="center" width="500" height="300 ><img src="https://www.kixie.com/assets/img/uploads/features/feeling-proud.svg" width="30px" height="30px"></h1>
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Japheth Joepari. </h1>
 <h3 align="center">A passionate fullstack software developer.</h3>
 
@@ -9,15 +6,15 @@
 <h3 align="center">🏆 Github Profile Trophy</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japheth-joepari" alt="japheth-joepari" /></a> </p>
 
-<img align="right" alt="Coding" width="600" height="300" src="https://www.kixie.com/assets/img/uploads/features/feeling-proud.svg">
+<img align="right" alt="Coding" width="500" height="300" src="https://www.kixie.com/assets/img/uploads/features/feeling-proud.svg">
 
 <p align="left"> <a href="https://twitter.com/@joepari_codes" target="blank"><img src="https://img.shields.io/twitter/follow/@joepari_codes?logo=twitter&style=for-the-badge" alt="@joepari_codes" /></a> </p>
 
 - 🔭 I’m currently exploring **IOT**
 
-- 🌱 I’m currently learning **Flutter, flask**
+- 🌱 I’m currently learning **Flutter, NodeJs**
 
-- 💬 Ask me about **React, React Native, PHP, Laravel, NextJs, Typscript**
+- 💬 Ask me about **React ⚡React Native ⚡PHP ⚡Laravel ⚡NextJs ⚡Typscript**
 
 - 📫 How to reach me **phython023@gmail.com**
 
