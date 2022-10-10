@@ -41,8 +41,8 @@
 
 
 
-<div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" /></div>
 <!-- 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" /></p> -->
 
