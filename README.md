@@ -32,15 +32,15 @@
 
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Japheth-Joepari&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Japheth-Joepari&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
 
 
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" />
+<!-- <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" /></div>
 <!-- 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" /></p> -->
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=japheth-joepari&show_icons=true&locale=en&layout=compact" alt="japheth-joepari" /></p> --> -->
 
