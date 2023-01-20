@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Flutter ⚡NodeJs**
 
-- 💬 Ask me about **React ⚡React Native ⚡PHP ⚡Laravel ⚡NextJs ⚡Typscript **
+- 💬 Ask me about **React ⚡PHP ⚡Laravel ⚡NextJs ⚡Typscript **
 
-- 📫 How to reach me **phython023@gmail.com**
+- 📫 How to reach me **japhethjoepariagidife@gmail.com**
 
 <h3 align="left">Connect with me via:</h3>
 <p align="left">
