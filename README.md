@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Japheth Joepari. </h1>
-<h3 align="center">A passionate fullstack software developer.</h3>
+<h3 align="center">Fullstack software developer.</h3>
 
 
 <h3 align="center">🏆 Github Profile Trophy</h3>
